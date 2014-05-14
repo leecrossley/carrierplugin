@@ -23,7 +23,7 @@
 
 ## Installation 安装方法
 
-    cordova plugin add https://github.com/gdmec/carrierplugin
+    cordova plugin add https://github.com/gdmec/carrierplugin.git
 
 ## Supported Platforms
 
